@@ -1,0 +1,14 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "This is my first ever node project. Hope it will run with causing any issue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first_node"
+  ],
+  "author": "Syed Danish Kazmi",
+  "license": "ISC"
+}
